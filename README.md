@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @supernovamads
 - 👀 I’m interested in data science and visualization in Python.
-- 🌱 I just earned my Ph.D. in Astrophysics and I wanted to document my side projects (not astronomy related, typically) here.
+- 🌱 I just earned my Ph.D. in Astrophysics and **I'm on the job market** 
+- I wanted to document my side projects (not astronomy related, typically) here!
 
 
 <!---
